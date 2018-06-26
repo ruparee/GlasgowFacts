@@ -6,7 +6,7 @@ let APP_ID='amzn1.ask.skill.0acf6991-f72f-4d3d-8379-9b55c8e782ad';          // p
 // card images (large and small)
 const imageObj = {
     smallImageUrl: 'https://s3.amazonaws.com/alexaglasgowfacts/glasgowlogosmall.jpeg',
-    largeImageUrl: 'https://s3.amazonaws.com/alexaglasgowfacts/glasgowlogolarge.jpeg'
+    largeImageUrl: 'https://s3.amazonaws.com/alexaglasgowfacts/glasgowlogolarge.jpg'
 };
 
 
